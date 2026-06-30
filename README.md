@@ -7,7 +7,6 @@
     <li><a href="#SQL-Tasks">SQL Tasks</a></li>
     <li><a href="#Python-Tasks">Python Tasks</a></li>
     <li><a href="#Tableau-Tasks">Tableau Tasks</a></li>
-    <li><a href="#Files">Files</a></li>
     <li><a href="#Connect">Connect</a></li>
   </ol>
 </details>
@@ -17,6 +16,9 @@
 In this project, I am a Data Analyst for ReadmitGuard, an analytics firm that partners with healthcare facilities to identify and reduce patient readmission. The data provided by the healthcare partner includes key metrics, including patient demographics, medical history, admission details, and more. By exploring the dataset with SQL, Python, and Tableau, I--on behalf of ReadmitGuard--intend to identify the likelihood of patient readmission within 30 days after discharge. My tasks are as follows:
 
 # SQL Tasks
+
+<img width="1101" height="428" alt="Screenshot 2026-06-29 at 10 50 07 PM" src="https://github.com/user-attachments/assets/eb21e952-4c83-4dba-8313-73206774923b" />
+
 <ul>
 <li>Create a schema named healthcare, set it as the default schema, and create tables using diabetic_data.csv</li>
 <li>Calculate the total number of patient encounters in the healthcare dataset.</li>
@@ -29,7 +31,12 @@ In this project, I am a Data Analyst for ReadmitGuard, an analytics firm that pa
 <li>Identify the distribution of readmission rates across different payer codes.</li>
 </ul>
 
+Click <a href="https://github.com/breannagirdy/Patient-Readmission-Prediction/blob/main/healthcare_management.sql">here</a> to access SQL.
+
 # Python Tasks
+
+<img width="700" height="548" alt="Screenshot 2026-06-29 at 10 52 42 PM" src="https://github.com/user-attachments/assets/68e335d0-f115-48a2-90c0-48cc9839ed5b" />
+
 <ul>
   <li>Perform descriptive statistical analysis for numerical features.</li>
   <li>Visualize the distribution of categorical features race and gender.</li>
@@ -44,7 +51,11 @@ dispositions.</li>
 context of building a fraud detection system for the healthcare management system.</li>
 </ul>
 
+Click <a href="https://github.com/breannagirdy/Patient-Readmission-Prediction/blob/main/healthcare_management.ipynb">here</a> to access Python.
+
 # Tableau Tasks
+
+<img width="684" height="653" alt="Screenshot 2026-06-29 at 10 49 00 PM" src="https://github.com/user-attachments/assets/309d32a2-12e8-4586-ab42-30991964a614" />
 
 <ul>
   <li>Show the distribution of readmitted counts of diagnoses and emergency cases through bar graphs.</li>
@@ -54,12 +65,7 @@ context of building a fraud detection system for the healthcare management syste
   <li>Create a dashboard with all the visualizations.</li>
 </ul>
 
-# Files
-Click here to access SQL
-
-Click here to access Python
-
-Click here to access Tableau
+Click <a href="https://public.tableau.com/views/HealthcareManagementSummary/HealthcareManagementSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">here</a> to view the dashboard on Tableau Public!
 
 # Connect
 <a href="https://www.linkedin.com/in/breanna-girdy">Visit me on LinkedIn!</a>
