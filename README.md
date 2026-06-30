@@ -6,9 +6,9 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#SQL-Tasks">SQL Tasks</a></li>
     <li><a href="#Python-Tasks">Python Tasks</a></li>
-    <li><a href="Tableau-Tasks">Tableau Tasks</a></li>
-    <li><a href="Files">Files</a></li>
-    <li><a href="Connect">Connect</a></li>
+    <li><a href="#Tableau-Tasks">Tableau Tasks</a></li>
+    <li><a href="#Files">Files</a></li>
+    <li><a href="#Connect">Connect</a></li>
   </ol>
 </details>
 
