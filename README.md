@@ -8,6 +8,7 @@
     <li><a href="#Python-Tasks">Python Tasks</a></li>
     <li><a href="#Tableau-Tasks">Tableau Tasks</a></li>
     <li><a href="#Connect">Connect</a></li>
+    <li><a href="#Conclusions">Conclusions</li>
   </ol>
 </details>
 
@@ -66,6 +67,17 @@ Click <a href="https://github.com/breannagirdy/Patient-Readmission-Prediction/bl
 </ul>
 
 Click <a href="https://public.tableau.com/views/HealthcareManagementSummary/HealthcareManagementSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">here</a> to view the dashboard on Tableau Public!
+
+# Conclusions
+
+Following the Exploratory Data Analysis performed in SQL and Python, as well as the Healthcare Summary provided on Tableau, we are able to draw the following conlcusions:
+
+<b>Population</b>
+<li>A little under 50% of patients (46%) saw were readmitted following a healthcare visit (SQL)</li>
+<li>Most patients across all age brackets <b>do not seek readmissions</b>after a hospital visit, however the patients seeing the top three highest rate of readmission were between the ages of 60 and 90 (Python).</li>
+<li>Patients saw a shorter amount of time spent in the hospital under two scenarios 1) the larger the number of <b>outpatient visits</b>, the lower the possibility of longer hospital stays and 2) the larger the number of <b>emergency room visits</b>, the lower the possibility of longer hospital stays. (Python)</li>
+<li>The more that we are able to provide procedures, medications, and diagnoses to patients upon their first visit, the less likely they are to need readmission (Tableau)</li>
+<li>Overall, the patients that did not require readmission after their first visit were the patients that recieved the most prescribed medications, Lab procedures, and Diagnosis (Tableau).</li>
 
 # Connect
 <a href="https://www.linkedin.com/in/breanna-girdy">Visit me on LinkedIn!</a>
